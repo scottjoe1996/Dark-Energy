@@ -14,5 +14,6 @@ plot(X,dg,'black',X,dh,'blue',X,df,'red')
 title('Luminosity Distance')
 xlabel('z')
 ylabel('d_{lum} (h^{-1}Mpc)')
-legend('\Omega_\lambda = 0.3','\Omega_\lambda = 0.7','\Omega_\lambda =
-1','location','northwest')
+legend('\Omega_\lambda = 0.3','\Omega_\lambda = 0.7','\Omega_\lambda = 1','location','northwest')
+
+
